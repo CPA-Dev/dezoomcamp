@@ -1,6 +1,6 @@
 variable "credentials" {
   description = "My Credentials"
-  default     = "./key/terraform-demo-412016-0456f6c3e56e.json"
+  default     = "./key/__.json"
 }
 
 
